@@ -1,0 +1,13 @@
+
+˜
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "allUsers".(Ö©à²ùÿÿÿÿ8Å´°ëÊ0HÖRMINORZ
+CODE_SMELL
+•
+java:S1488#"]Immediately return this expression instead of assigning it to the temporary variable "users".(ñÅÿÿÿÿÿÿ8Å´°ëÊ0HÙRMINORZ
+CODE_SMELL
+—
+java:S1488-"_Immediately return this expression instead of assigning it to the temporary variable "showAll".(İ“’ıÿÿÿÿ8Å´°ëÊ0HÜRMINORZ
+CODE_SMELL
+™
+java:S14883"aImmediately return this expression instead of assigning it to the temporary variable "allOrders".(åÁÉûüÿÿÿÿ8Å´°ëÊ0HßRMINORZ
+CODE_SMELL

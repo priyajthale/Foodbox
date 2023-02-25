@@ -1,0 +1,58 @@
+
+…
+java:S1192A"ODefine a constant instead of duplicating this literal "changepassword" 4 times.(Õæ¶Œ8…ŸÈëÊ0HíRCRITICALZ
+CODE_SMELL
+
+java:S1192P"IDefine a constant instead of duplicating this literal "message" 10 times.(úï»¬8…ŸÈëÊ0HúRCRITICALZ
+CODE_SMELL
+j	java:S1065"9Replace this use of System.out or System.err by a logger.(ôöµe8…ŸÈëÊ0H›RMAJORZ
+CODE_SMELL
+p	java:S106T"9Replace this use of System.out or System.err by a logger.(äîØ¨ÿÿÿÿÿ8…ŸÈëÊ0HRMAJORZ
+CODE_SMELL
+p	java:S106\"9Replace this use of System.out or System.err by a logger.(Ù¯Ğ¹ûÿÿÿÿ8…ŸÈëÊ0HŸRMAJORZ
+CODE_SMELL
+€
+java:S1192½"IDefine a constant instead of duplicating this literal "getusers" 4 times.(ÒĞõ€8…ŸÈëÊ0H‰RCRITICALZ
+CODE_SMELL
+
+java:S1192v"IDefine a constant instead of duplicating this literal "products" 3 times.(°ÍĞ»8…ŸÈëÊ0HéRCRITICALZ
+CODE_SMELL
+~
+java:S4684h"@Replace this persistent entity with a simple POJO or DTO object.(©ó—üÿÿÿÿ8…ŸÈëÊ0H RCRITICALZVULNERABILITY
+€
+java:S1192%"KDefine a constant instead of duplicating this literal "adminlogin" 3 times.(í…¹48…ŸÈëÊ0HåRCRITICALZ
+CODE_SMELL
+‰
+java:S1192¨"MDefine a constant instead of duplicating this literal "registeruser" 3 times.( ¸ÉÌúÿÿÿÿ8…ŸÈëÊ0HöRCRITICALZ
+CODE_SMELL
+p	java:S106j"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8…ŸÈëÊ0H¡RMAJORZ
+CODE_SMELL
+y
+java:S4684¬"@Replace this persistent entity with a simple POJO or DTO object.(“›«Y8…ŸÈëÊ0H¢RCRITICALZVULNERABILITY
+l
+java:S1117."9Rename "login" which hides the field declared at line 25.(¾Õ‹õ8…ŸÈëÊ0H˜RMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8…ŸÈëÊ0HšRMAJORZ
+CODE_SMELL
+‡
+java:S1192ş"KDefine a constant instead of duplicating this literal "showorders" 3 times.(íË•±øÿÿÿÿ8…ŸÈëÊ0H…RCRITICALZ
+CODE_SMELL
+~
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ø”¹¶ÿÿÿÿÿ8…ŸÈëÊ0H—RCRITICALZVULNERABILITY
+~
+java:S4684E"@Replace this persistent entity with a simple POJO or DTO object.(ŸÒ³°şÿÿÿÿ8…ŸÈëÊ0HRCRITICALZVULNERABILITY
+ƒ
+java:S1192c"HDefine a constant instead of duplicating this literal "product" 3 times.(›¿ÚËıÿÿÿÿ8…ŸÈëÊ0HòRCRITICALZ
+CODE_SMELL
+†
+java:S1192y"KDefine a constant instead of duplicating this literal "getproduct" 3 times.(ÿ¨£…ıÿÿÿÿ8…ŸÈëÊ0HRCRITICALZ
+CODE_SMELL
+q	java:S106®"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8…ŸÈëÊ0H£RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(äîØ¨ÿÿÿÿÿ8…ŸÈëÊ0HœRMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(—ĞÔÇ8…ŸÈëÊ0H™RMAJORZ
+CODE_SMELL
+†
+java:S1192d"KDefine a constant instead of duplicating this literal "addproduct" 4 times.(¹¼ôüÿÿÿÿ8…ŸÈëÊ0H’RCRITICALZ
+CODE_SMELL

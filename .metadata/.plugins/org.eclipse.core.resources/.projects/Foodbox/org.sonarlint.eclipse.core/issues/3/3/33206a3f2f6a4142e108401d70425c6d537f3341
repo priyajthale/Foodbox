@@ -1,0 +1,18 @@
+
+
+java:S1488+"\Immediately return this expression instead of assigning it to the temporary variable "user".(òÒˆŠýÿÿÿÿHíRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ÎÑçHðRMINORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHñRMINORZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿHóRMINORZ
+CODE_SMELL
+u
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿHõRMINORZ
+CODE_SMELL
+o
+java:S1128">Remove this unused import 'com.Foodbox.Entity.ProductsEntity'.(Í¤ÂÆÿÿÿÿÿH÷RMINORZ
+CODE_SMELL

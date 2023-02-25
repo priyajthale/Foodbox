@@ -1,0 +1,5 @@
+package com.api.sportyshoes.controller;
+
+public class ProductController {
+
+}

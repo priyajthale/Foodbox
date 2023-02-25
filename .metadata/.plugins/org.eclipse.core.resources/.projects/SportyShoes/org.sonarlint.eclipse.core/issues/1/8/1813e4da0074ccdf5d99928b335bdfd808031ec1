@@ -1,0 +1,16 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’·ˆùÿÿÿÿH¿RMINORZ
+CODE_SMELL
+a
+java:S1874/".Remove this use of "delete"; it is deprecated.(Œçƒ¬8¥†íÊ0HÒRMINORZ
+CODE_SMELL
+|
+java:S2259,"PA "NullPointerException" could be thrown; "getSessionFactory()" can return null.(éö™¥8¥†íÊ0HÍRMAJORZBUG
+s
+java:S2095,"EUse try-with-resources or close this "Session" in a "finally" clause.(éö™¥8¥†íÊ0HĞRBLOCKERZBUG
+›
+java:S1488%"cImmediately return this expression instead of assigning it to the temporary variable "productList".(Œ‘û¹ûÿÿÿÿ8¥†íÊ0HÊRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8¥†íÊ0HÑRINFOZ
+CODE_SMELL

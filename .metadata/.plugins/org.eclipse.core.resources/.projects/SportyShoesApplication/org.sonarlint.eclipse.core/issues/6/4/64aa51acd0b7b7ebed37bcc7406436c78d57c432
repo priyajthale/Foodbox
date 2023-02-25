@@ -1,0 +1,14 @@
+
+Ÿ
+java:S1488"gImmediately return this expression instead of assigning it to the temporary variable "findAllProducts".(ÚÖÕûıÿÿÿÿ8ŸÈëÊ0H¤RMINORZ
+CODE_SMELL
+•
+java:S1488'"bImmediately return this expression instead of assigning it to the temporary variable "newProduct".(¸…ËÀ8ŸÈëÊ0H§RMINORZ
+CODE_SMELL
+›
+java:S1488-"cImmediately return this expression instead of assigning it to the temporary variable "getProducts".(î£¸İÿÿÿÿÿ8ŸÈëÊ0HªRMINORZ
+CODE_SMELL
+|
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¸…ËÀ8ŸÈëÊ0H­RMAJORZBUG
+|
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‡‰Øú8ŸÈëÊ0H®RMAJORZBUG

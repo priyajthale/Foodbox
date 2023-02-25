@@ -1,0 +1,11 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’·ˆùÿÿÿÿHÛRMINORZ
+CODE_SMELL
+˜
+java:S1488&"`Immediately return this expression instead of assigning it to the temporary variable "userList".(É­Ü¹üÿÿÿÿ8ê‹íÊ0HèRMINORZ
+CODE_SMELL
+|
+java:S2259,"PA "NullPointerException" could be thrown; "getSessionFactory()" can return null.(éö™¥8ê‹íÊ0HëRMAJORZBUG
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8ê‹íÊ0HîRINFOZ
+CODE_SMELL

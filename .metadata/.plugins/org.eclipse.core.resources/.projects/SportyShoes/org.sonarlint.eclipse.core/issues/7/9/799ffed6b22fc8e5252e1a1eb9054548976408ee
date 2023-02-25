@@ -1,0 +1,21 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’·ˆùÿÿÿÿH­RMINORZ
+CODE_SMELL
+|
+java:S2259%"PA "NullPointerException" could be thrown; "getSessionFactory()" can return null.(éö™¥8’ô‚íÊ0H³RMAJORZBUG
+s
+java:S2095%"EUse try-with-resources or close this "Session" in a "finally" clause.(éö™¥8’ô‚íÊ0H¶RBLOCKERZBUG
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8’ô‚íÊ0H·RINFOZ
+CODE_SMELL
+g
+java:S1172$"/Remove this unused method parameter "username".(ùõ´†üÿÿÿÿ8’ô‚íÊ0H¸RMAJORZ
+CODE_SMELL
+k
+java:S1874("3Remove this use of "createQuery"; it is deprecated.(ö›ÎÑüÿÿÿÿ8’ô‚íÊ0HºRMINORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(±‚·ëøÿÿÿÿ8’ô‚íÊ0H»RMAJORZ
+CODE_SMELL
+`
+java:S1125/"(Remove the unnecessary boolean literals.(òî‰¶ıÿÿÿÿ8’ô‚íÊ0H¼RMINORZ
+CODE_SMELL

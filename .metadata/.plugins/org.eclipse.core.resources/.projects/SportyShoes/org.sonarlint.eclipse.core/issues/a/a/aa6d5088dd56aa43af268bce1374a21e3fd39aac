@@ -1,0 +1,8 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’·ˆùÿÿÿÿHœRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8şçûìÊ0H¨RINFOZ
+CODE_SMELL
+|
+java:S2259&"PA "NullPointerException" could be thrown; "getSessionFactory()" can return null.(éö™¥8şçûìÊ0H¥RMAJORZBUG

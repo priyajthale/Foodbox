@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.api.sportyshoes.controller;
+
+/**
+ * @author avinash
+ *
+ */
+public class CustomerController {
+
+}

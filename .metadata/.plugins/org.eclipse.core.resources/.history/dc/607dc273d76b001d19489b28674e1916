@@ -1,0 +1,5 @@
+package com.api.sportyshoes.repository;
+
+public interface ProductRepository {
+
+}
